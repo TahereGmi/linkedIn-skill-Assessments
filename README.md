@@ -1,6 +1,6 @@
 These are [Available LinkedIn skill assessments](https://www.linkedin.com/help/linkedin/answer/a507734?trk=hc-articlePage-sidebar) for frontend development
 
-[HTML](https://www.linkedin.com/help/linkedin/answer/a512567)
+#[HTML](https://www.linkedin.com/help/linkedin/answer/a512567)
 - Basic Structure
 - Semantics
 - Multimedia
@@ -10,7 +10,8 @@ These are [Available LinkedIn skill assessments](https://www.linkedin.com/help/l
 - Lists
 - Microdata
 - Scripting
-[CSS](https://www.linkedin.com/help/linkedin/answer/a507813)
+
+#[CSS](https://www.linkedin.com/help/linkedin/answer/a507813)
 - CSS Properties
 - Typography
 - The Box Model
@@ -21,7 +22,8 @@ These are [Available LinkedIn skill assessments](https://www.linkedin.com/help/l
 - CSS Functions
 - CSS Elements
 - CSS Animation
-[Javascript](https://www.linkedin.com/help/linkedin/answer/a512575)
+
+#[Javascript](https://www.linkedin.com/help/linkedin/answer/a512575)
 - JavaScript Fundamentals
 - Data Types
 - JavaScript Advanced
@@ -33,7 +35,8 @@ These are [Available LinkedIn skill assessments](https://www.linkedin.com/help/l
 - Error Handling
 - Prototypes and Inheritance
 - Code Quality
-[Git](https://www.linkedin.com/help/linkedin/answer/a507822)
+
+#[Git](https://www.linkedin.com/help/linkedin/answer/a507822)
 - Fundamentals
 - Downstream Workflow
 - Tracking
